@@ -1,0 +1,12 @@
+{
+  "name": "mern-crud-lab",
+  "version": "1.1.0",
+  "description": "Responsive item manager using Express, a REST API, and in-memory array storage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
